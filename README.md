@@ -16,8 +16,8 @@
 </div>
 
 <h1>
-  Namaste :pray:
-  <img src="https://giphy.com/gifs/hallmarkecards-ecards-hallmark-26BRwZcJAiBQKHMB2" width="30px"/>
+  Namaste :pray: 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
