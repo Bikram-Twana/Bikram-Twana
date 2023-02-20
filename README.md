@@ -34,7 +34,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- 🌍&nbsp;; Learning all about **Open Source**
+- 🌍&nbsp; Learning all about **Open Source**
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
