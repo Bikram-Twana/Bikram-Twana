@@ -32,6 +32,8 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m a passionate Software Engineer and contributing to flutter and backend web applications.
 
+- 🌱&nbsp;&nbsp; Learning all about **Open Source**
+
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
